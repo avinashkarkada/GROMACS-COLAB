@@ -14,3 +14,6 @@ https://colab.research.google.com/github/avinashkarkada/GROMACS-COLAB/blob/main/
 
 4. PDB fixer to add missing residues and fix your pdb:
 https://colab.research.google.com/github/avinashkarkada/GROMACS-COLAB/blob/main/PDB_FIXER.ipynb
+
+5. MMPBSA calculations using g_mmpbsa:
+https://colab.research.google.com/github/avinashkarkada/GROMACS-COLAB/blob/main/g_mmpbsa.ipynb
